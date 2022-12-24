@@ -1,7 +1,7 @@
 ![MasterHead](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
 <h1 align="center">Hi 👋, I'm SALAH ALKASERI</h1>
 <h3 align="center">SELF TAUGHT DEVELOPER | PASSIONATE VFX EDITOR</h3>
-<img align="right" alt="Coding" width="400" src="(https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif)">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salahalkaseri7&label=Profile%20views&color=0e75b6&style=flat" alt="salahalkaseri7" /> </p>
 
 
