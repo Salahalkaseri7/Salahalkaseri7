@@ -1,7 +1,7 @@
 [![MasterHead](https://tenor.com/en-GB/view/code-coding-programming-computer-science-programming-language-gif-16596559)](https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif)
 <h1 align="center">Hi 👋, I'm SALAH ALKASERI</h1>
 <h3 align="center">SELF TAUGHT DEVELOPER | PASSIONATE VFX EDITOR</h3>
-<img align="right" width="400" src"[https://tenor.com/en-GB/view/coding-gif-24297652](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)">
+<img align="right" width="400" src"[[https://tenor.com/en-GB/view/coding-gif-24297652](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif](https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif))">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salahalkaseri7&label=Profile%20views&color=0e75b6&style=flat" alt="salahalkaseri7" /> </p>
 
 
