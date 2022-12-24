@@ -3,7 +3,7 @@
   <img align="right" alt="Coding" height="200" width="200" src="https://i.ibb.co/gwn4mt0/png-transparent-computer-icons-html-web-design-web-development-web-design-angle-web-design-text-remo.png">
 <h1 align="center"> &nbsp &nbsp Hi 👋,I'm SALAH ALKASERI</h1>
 <h3 align="center">SELF TAUGHT DEVELOPER | PASSIONATE VFX EDITOR</h3>
-  <img align="right" alt="Coding" width="250" style="border-radius: 30px;" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
+  <img align="right" alt="Coding" width="220" style="border-radius: 30px;" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salahalkaseri7&label=Profile%20views&color=0e75b6&style=flat" alt="salahalkaseri7" /> </p>
 
 
