@@ -1,4 +1,4 @@
-![MasterHead](https://media3.giphy.com/media/6AqKqylNNOmskCKcjL/giphy.gif?cid=790b7611b68b5b88b0cff24c8ab6e56b0c2be9bde0ccdfa4&rid=giphy.gif&ct=g)
+![MasterHead](https://media0.giphy.com/media/aBqFc8L5UhPXgi27NZ/giphy.gif?cid=790b76110b8a253b3640bc5005a3e74f5f2d10ab155cefc9&rid=giphy.gif&ct=g)
 <h1 align="center">Hi 👋, I'm SALAH ALKASERI</h1>
 <h3 align="center">SELF TAUGHT DEVELOPER | PASSIONATE VFX EDITOR</h3>
   <img align="right" alt="Coding" width="250" style="border-radius: 30px;" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
