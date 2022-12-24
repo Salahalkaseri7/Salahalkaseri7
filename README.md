@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)]
+[![MasterHead](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
 <h1 align="center">Hi 👋, I'm SALAH ALKASERI</h1>
 <h3 align="center">SELF TAUGHT DEVELOPER | PASSIONATE VFX EDITOR</h3>
 <img align="right" width="400" src"[[https://tenor.com/en-GB/view/coding-gif-24297652](https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif](https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif))">
