@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salahalkaseri7&label=Profile%20views&color=0e75b6&style=flat" alt="salahalkaseri7" /> </p>
 
 
-- 🌱 I’m currently learning **REACTJS & FLUTTER**
+- 📈 I’m currently learning **REACTJS & FLUTTER**
 
-- 👯 I’m currently working on a project called [TYPING SPEEDO](https://github.com/Salahalkaseri7/TS-v1.3)
+- ☞ At present working on a project called [TYPING SPEEDO](https://github.com/Salahalkaseri7/TS-v1.3)
 
 - 👨‍💻 All of my projects are available at [https://salahalkaseri.netlify.app/](https://salahalkaseri.netlify.app/)
 
