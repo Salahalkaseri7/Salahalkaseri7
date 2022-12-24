@@ -1,6 +1,6 @@
 ![Picture](https://media1.giphy.com/media/RZpoxqePzE1ktrvwgb/giphy.gif?cid=790b761152006f037318c93b34e39f29c4b80a7e09f73454&rid=giphy.gif&ct=g) 
  <img align="left" alt="Coding" width="170" style="border-radius: 30px;" src="https://i.ibb.co/hM5rbVX/coding-html-tag-icon-1320196810836742267.png">
-  <img align="right" alt="Coding" height="270" width="290" src="https://i.ibb.co/gwn4mt0/png-transparent-computer-icons-html-web-design-web-development-web-design-angle-web-design-text-remo.png">
+  <img align="right" alt="Coding" height="270" width="200" src="https://i.ibb.co/gwn4mt0/png-transparent-computer-icons-html-web-design-web-development-web-design-angle-web-design-text-remo.png">
 <h1 align="center"> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp&nbsp &nbsp &nbspHi 👋,I'm SALAH ALKASERI</h1>
 <h3 align="center">SELF TAUGHT DEVELOPER | PASSIONATE VFX EDITOR</h3>
   <img align="right" alt="Coding" width="250" style="border-radius: 30px;" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
