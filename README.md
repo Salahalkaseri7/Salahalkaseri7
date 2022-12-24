@@ -1,4 +1,4 @@
-[![MasterHead](https://tenor.com/en-GB/view/code-coding-programming-computer-science-programming-language-gif-16596559)](https://rishavchanda.io)
+[![MasterHead](https://tenor.com/en-GB/view/code-coding-programming-computer-science-programming-language-gif-16596559)]
 <h1 align="center">Hi 👋, I'm SALAH ALKASERI</h1>
 <h3 align="center">SELF TAUGHT DEVELOPER | PASSIONATE VFX EDITOR</h3>
 <img align="right" width="400" src"https://tenor.com/en-GB/view/coding-gif-24297652">
