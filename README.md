@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://media1.giphy.com/media/RZpoxqePzE1ktrvwgb/giphy.gif?cid=790b761152006f037318c93b34e39f29c4b80a7e09f73454&rid=giphy.gif&ct=g)
 <h1 align="center">Hi 👋, I'm SALAH ALKASERI</h1>
 <h3 align="center">SELF TAUGHT DEVELOPER | PASSIONATE VFX EDITOR</h3>
   <img align="right" alt="Coding" width="250" style="border-radius: 30px;" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
